@@ -1,3 +1,5 @@
+**We will upload the core‑code folder to this GitHub repository after the paper is accepted.**
+
 If you have any questions, please contact the email address **shhang_30428@foxmail.com** or **shhangyang@stu.xidian.edu.cn**.
 
 The specific code and instructions are in the CALMFormer directory.
